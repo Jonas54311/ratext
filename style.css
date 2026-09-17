@@ -1,0 +1,30 @@
+p {
+    font-family: 'Comic Sans MS', cursive;
+}
+
+li {
+    font-family: 'Comic Sans MS', cursive;
+}
+
+.warnes-regular {
+  font-family: "Warnes", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+    font-family: "Warnes", cursive;
+}
+
+h2 {
+    font-family: "Warnes", cursive;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    background-color: cornflowerblue;
+}
